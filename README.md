@@ -4,6 +4,7 @@ End-to-end data analytics projects using SQL, Power BI, and GIS (QGIS).
 
 Hi, I’m an aspiring Data Analyst with hands-on experience in **SQL, Power BI, and GIS (QGIS)**.  
 This repository contains end-to-end analytics projects covering data extraction, analysis, visualization, and insights.
+email: akshayam028@gmail.com
 
 ##  Tools & Skills
 - SQL (PostgreSQL)
